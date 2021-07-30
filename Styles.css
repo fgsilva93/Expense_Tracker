@@ -1,0 +1,26 @@
+#top {
+    text-align: center;
+}
+
+
+#input-section {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.container {
+    height: auto;
+}
+
+tr {
+    height: 30px;
+}
+
+td {
+    padding-right: 3px;
+}
+
+.table-button {    
+    margin-left: 10px;
+    float: right;
+}
